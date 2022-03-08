@@ -6,38 +6,48 @@
     "questionaireId":"34",
     "questions": [
       {
-        "questionName": "Cars",
-        "questionId": "Cars",
+        "questionName": "F8",
+        "questionId": "F8",
         "options": [
           {
-            "text": "Honda",
-            "value": 194
+            "text": "پرجوش Passionate/",
+            "value": 21
           },
            {
-            "text": "Toyota",
-            "value": 195
+            "text": "منفرد Unique/",
+            "value": 18
           },
            {
-            "text": "KIA",
-            "value": 196
+            "text": "عالمی Global/",
+            "value": 15
           }
         ]
       },
-       {
-        "questionName": "Drink",
-        "questionId": "Drink",
+      {
+        "questionName": "StoreType",
+        "questionId": "StoreType",
         "options": [
           {
-            "text": "Pepsi",
+            "text": "Bakery",
             "value": 1
           },
            {
-            "text": "Sting",
-            "value": 2
-          },
+            "text": "Kiryana Store",
+            "value": 4
+          }
+        ]
+      },
+      {
+        "questionName": "terminate1",
+        "questionId": "terminate1",
+        "options": [
           {
-            "text": "Dew",
-            "value": 3
+            "text": "ہاں",
+            "value": 1
+          },
+           {
+            "text": "نہیں",
+            "value": 2
           }
         ]
       }
